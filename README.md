@@ -64,17 +64,13 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-The Engelberg Center on Innovation Law & Policy, housed at NYU School of Law, is an interdisciplinary hub that examines the legal and policy dimensions of innovation. It conducts research, hosts events, publishes outputs, and engages students and scholars in topics ranging from AI ethics to intellectual property, fostering dialogue between academia, industry, and the public sector.
+The Engelberg Center on Innovation Law & Policy, part of NYU School of Law, conducts interdisciplinary research and education on the legal and policy aspects of innovation. It offers programs for students, hosts events, publishes research outputs, and engages with scholars, technologists, and policymakers to explore topics such as AI, intellectual property, and emerging technologies.
 
-**Areas:** Company · Law · Innovation · Research · Education
+**Areas:** Education · Law · Innovation · Research · NYU
 
 ## Engelberg Center on Innovation Law & Policy on APIs.io
 
 Everything profiled for Engelberg Center on Innovation Law & Policy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nyuengelberg-org/](https://apis.io/providers/nyuengelberg-org/)** — or go straight to one of the APIs or properties below.
-
-### APIs (1)
-
-- [Engelberg Center API](https://apis.io/apis/nyuengelberg-org/engelberg-center-api/) — API documentation for the Engelberg Center on Innovation Law & Policy. No machine-readable spec was found; only human-readable documentation pages are…
 
 ### Published properties
 
@@ -90,23 +86,23 @@ Authentication, trust centre, and vulnerability disclosure.
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://www.nyuengelberg.org/)
+- [Website](https://nyuengelberg.org/)
 - [Documentation](https://nyuengelberg.org/outputs/documentation/)
-- [Getting started](https://www.nyuengelberg.org/for-students)
+- [Blog](https://www.nyuengelberg.org/news)
 - [Privacy policy](https://nyuengelberg.org/on/privacy/)
 - [GitHub](https://github.com/NYUEngelberg)
 
 ## API Evangelist rating
 
-**Kin Score 11.8** — emerging · rubric 0.28.0 · scored 2026-11-20
+**Kin Score 8.8** — minimal · rubric 0.28.0 · scored 2026-11-20
 
 | Facet | Score |
 |---|---|
-| Discoverability | 58.9 |
+| Discoverability | 48.2 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 4.8 |
-| Developer ergonomics | 28.6 |
+| Developer ergonomics | 19.0 |
 | Access clarity | 8.5 |
 
 **Agent readiness 3.1** — human-only
